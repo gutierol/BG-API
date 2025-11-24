@@ -11,7 +11,7 @@
 
 #### FUNCION: CONEXION_OK
 
-> Método: <kbd>**==GET==**</kbd>
+> Método: <kbd>**GET**</kbd>
 
 ```html
 /bgapi.php?modulo=CTL&funcion=CONEXION_OK
