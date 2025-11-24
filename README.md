@@ -28,4 +28,3 @@
 - [x] OPORTUNIDADES
 - [ ] INVENTARIO
 - [x] CLIENTES
-- [ ] 
