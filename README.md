@@ -11,7 +11,7 @@
 
 #### FUNCION: CONEXION_OK
 
-> Método: `**GET**`
+> Método: **`GET`**
 
 ```html
 /bgapi.php?modulo=CTL&funcion=CONEXION_OK
